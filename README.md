@@ -1,4 +1,4 @@
-# git-dos
+# git
 git config --global user.name "wggglggg"                 # 创建用户名,可以谁操作的
 git config --global user.email "wggglggg@xxxxxxx.com"    # 创建用户邮箱 ,  可以在c:\users\xxxxx\.gitconfig 查看
 
