@@ -1,5 +1,5 @@
 git config --global user.name "wggglggg"                 # 创建用户名,可以谁操作的
-git config --global user.email "wggglggg@hotmail.com"    # 创建用户邮箱 ,  可以在c:\users\xxxxx\.gitconfig 查看
+git config --global user.email "wggglggg@xxxxx.com"    # 创建用户邮箱 ,  可以在c:\users\xxxxx\.gitconfig 查看
 
 # 创建仓库
 # 先在电脑上创建一个文件夹,假设我建一个gittest文件夹作为仓库, 这个文件夹作为本地仓库,再进入此仓库
